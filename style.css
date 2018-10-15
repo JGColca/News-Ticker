@@ -1,0 +1,13 @@
+.newsItem img {
+    width: 150px;
+    height: auto;
+}
+
+#newsArticles {
+    list-style: none;
+}
+
+.author {
+    display: flex;
+    justify-content: space-evenly;
+}
